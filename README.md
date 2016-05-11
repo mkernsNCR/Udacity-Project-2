@@ -1,6 +1,6 @@
 # The Resume Project
 
-http://mkernsncr.github.io/Udacity-Project-2/index.html
+http://mkernsncr.github.io/Udacity-Project-2/
 
 ## How do I complete this project?
 
