@@ -203,15 +203,18 @@ span {
   width: 100%;
   padding-bottom: 5%;
 }
+
 .project-img {
   width: 50%;
   display: block;
   margin: auto;
 }
+
 @media (max-width: 500px) {
   .project-img {
   width: 100%;
 }
+
 @media only screen and (min-width: 750px) {
   #skillsH3,
   .biopic {
